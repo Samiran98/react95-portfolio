@@ -3,8 +3,8 @@ import { useAuthStore } from '../store/auth';
 import './Login.css';
 
 const Login = () => {
-    const [username, setUsername] = useState('');
-    const [password, setPassword] = useState('');
+    const [username, setUsername] = useState('admin');
+    const [password, setPassword] = useState('admin');
     const [error, setError] = useState('');
     const login = useAuthStore((state) => state.login);
 
@@ -41,7 +41,7 @@ const Login = () => {
             <div className="login-left-panel">
                 <div className="login-logo-section">
                     <img
-                        src="src/assets/logo.png"
+                        src="/logo.png"
                         alt="Windows 95"
                         className="login-logo"
                     />

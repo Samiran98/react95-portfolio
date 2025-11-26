@@ -7,9 +7,10 @@ function Resume() {
       <Tab title="Genesis">
         <h3>Behold, I am Samiran Ghosh</h3>
         <Avatar
-          src="https://avatars.githubusercontent.com/u/87601568?v=4"
+          src="https://images.rawpixel.com/image_png_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV80N19mdWxsX2JvZHlfM2RfYXZhdGFyXzNkX3JlbmRlcl9vZl9hX2pveWZ1bF9idV8zNDhkYWIwNy1iMTE1LTQ1NTMtOWJjYy1kZDc2YTVmZDFmY2VfMS5wbmc.png"
           alt="Samiran Ghosh Avatar"
-          size="140px"
+          height="100%"
+          size="100px"
         />
 
         <p>A Software Engineer Crafting Scalable Digital Experiences</p>

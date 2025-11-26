@@ -20,7 +20,7 @@ const App = () => {
 
 	return (
 	<div style={{ width: "100%", background: "#098684", minHeight: "100vh", position: "relative" }}>
-		<img src="public/logo.png" width={400} style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%,-70%)" }} />
+		<img src="/logo.png" width={400} style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%,-70%)" }} />
 		<div className="fixed">
 			<DesktopIcon width={650} icon={<Wordpad variant="32x32_4" />} name="Resume.exe">
 				<Resume />
